@@ -1,7 +1,0 @@
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\bin\Debug\WebbrowserenOpgave.exe.config
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\bin\Debug\WebbrowserenOpgave.exe
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\bin\Debug\WebbrowserenOpgave.pdb
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\obj\Debug\WebbrowserenOpgave.csprojAssemblyReference.cache
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\obj\Debug\WebbrowserenOpgave.csproj.CoreCompileInputs.cache
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\obj\Debug\WebbrowserenOpgave.exe
-C:\Users\mort286f\source\repos\WebbrowserenOpgave\WebbrowserenOpgave\obj\Debug\WebbrowserenOpgave.pdb
